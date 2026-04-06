@@ -1,6 +1,6 @@
 # Conway Polynomials Database
 
-This repository contains a collection of 102 non-registered **Conway Polynomials** $C_{p,n}$, which are used to define standard extensions of finite fields $GF(p^n)$. These polynomials are essential for ensuring compatibility between different computer algebra systems.
+This repository contains a collection of 106 non-registered **Conway Polynomials** $C_{p,n}$, which are used to define standard extensions of finite fields $GF(p^n)$. These polynomials are essential for ensuring compatibility between different computer algebra systems.
 
 ---
 
@@ -37,7 +37,7 @@ Conway polynomials for various prime characteristics $p$ and degrees $n$.
 | **313** | $x^{11} + 5x - 10$ | $x^{13} + 7x - 10$ | $x^{17} + 34x - 10$ | $x^{19} + 17x - 10$ | $x^{23} + 38x - 10$ |
 | **317** | $x^{11} + 8x - 2$ | $x^{13} + 4x - 2$ | $x^{17} + 11x - 2$ | $x^{19} + 8x - 2$ | - |
 | **331** | $x^{11} + 73x - 3$ | $x^{13} + 3x - 3$ | $x^{17} + 33x - 3$ | $x^{19} + 10x - 3$ | $x^{23} + 13x - 3$ |
-| **337** | $x^{11} + 8x - 10$ | $x^{13} + 5x - 10$ | - | $x^{19} + 17x - 10$ | $x^{23} + 46x - 10$ |
+| **337** | $x^{11} + 8x - 10$ | $x^{13} + 5x - 10$ | $x^{17} + 13x - 10$ | $x^{19} + 17x - 10$ | $x^{23} + 46x - 10$ |
 | **347** | $x^{11} + 25x - 2$ | $x^{13} + 11x - 2$ | $x^{17} + 20x - 2$ | $x^{19} + 7x - 2$ | - |
 | **349** | $x^{11} + 42x - 2$ | $x^{13} + 13x - 2$ | $x^{17} + 8x - 2$ | $x^{19} + 7x - 2$ | $x^{23} + 16x - 2$ |
 | **353** | $x^{11} + 13x - 3$ | $x^{13} + 22x - 3$ | $x^{17} + 16x - 3$ | $x^{19} + 5x - 3$ | - |
@@ -47,3 +47,4 @@ Conway polynomials for various prime characteristics $p$ and degrees $n$.
 | **379** | $x^{11} + 6x - 2$ | $x^{13} + 8x - 2$ | $x^{17} + 8x - 2$ | $x^{19} + 26x - 2$ | $x^{23} + 7x - 2$ |
 | **383** | $x^{11} + 17x - 5$ | $x^{13} + x - 5$ | $x^{17} + 13x - 5$ | $x^{19} + 25x - 5$ | $x^{23} + 7x - 5$ |
 | **389** | $x^{11} + 4x - 2$ | $x^{13} + 13x - 2$ | $x^{17} + 44x - 2$ | $x^{19} + 14x - 2$ | - |
+| **397** | $x^{11} + 12x - 5$ | $x^{13} + x - 5$ | $x^{17} + 19x - 5$ | - | - |
